@@ -1,0 +1,26 @@
+.todo-list-form{
+    width : 100%;
+}
+
+.todo-list-form > section:first-child{
+    height: 50px;
+    margin-top : 10px;
+
+}
+
+.todo-list-form > section:first-child>input{
+    height : 30px;
+    width : calc( 100% - 55px);
+    margin : 0px 2px;    
+    border: 0px solid;
+    border-bottom: 1px solid #22b8cf;
+}
+
+.todo-list-form > section:first-child>button{
+    height : 30px;
+    width : 50px;
+    border: 0px;
+    background-color: #22b8cf;
+    border-radius: 2px;
+    color: #fff;
+}

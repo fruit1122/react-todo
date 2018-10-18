@@ -1,0 +1,19 @@
+.todo-form{
+    width : 600px;
+    margin: 0 auto;
+    background-color : #fff;
+    border : 1px solid #dede;
+    margin-top : 10vh;
+}
+
+.todo-header{
+    height : 30px;
+    font-size : 20px;
+    background-color : #22b8cf;
+    text-align: center;
+    color : #fff;
+    font-weight: bold;
+}
+.todo-main{
+    margin : 5px;
+}

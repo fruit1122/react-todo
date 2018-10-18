@@ -1,0 +1,39 @@
+.login-form{
+    width : 400px;
+    margin: 0 auto;
+    background-color : #fff;
+    border : 1px solid #dede;
+    margin-top : 10vh;
+}
+
+.login-header{
+    height : 30px;
+    font-size : 20px;
+    background-color : #22b8cf;
+    text-align: center;
+    color : #fff;
+    font-weight: bold;
+}
+.login-main{
+    margin : 5px;
+}
+.login-main > section {
+    width : 100%;
+    margin : 3px 0;
+}
+
+.login-main > section >span{
+    width : 80px;
+    display: inline-block;
+    text-align : right;
+    margin-right : 3px;
+}
+
+.login-main > section >input{
+    width : calc( 100% - 90px) ;
+}
+
+.login-main > button{
+    left: calc(100% - 60px);
+    position: relative;
+}
